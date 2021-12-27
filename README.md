@@ -1,6 +1,6 @@
 Olá! Eu sou o Miguel Vianna!
 
-- 🔭 Estou estudando React.js
+- 🔭 Dev front-End Júnior, React.js
 - 📫 contate-me no email: miguelviannafeiteira@gmail.com
 
 <div align="center">
