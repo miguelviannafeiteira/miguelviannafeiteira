@@ -1,6 +1,6 @@
 Olá! Eu sou o Miguel Vianna!
 
-- 🔭 Dev front-End Júnior, React.js
+- 🔭 Dev front-End Júnior  | JavaScript | React.js | Node.js | Typescript
 - 📫 contate-me no email: miguelviannafeiteira@gmail.com
 
 <div align="center">
